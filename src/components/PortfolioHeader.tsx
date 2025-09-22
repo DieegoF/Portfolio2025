@@ -54,7 +54,7 @@ export function PortfolioHeader() {
             </Button>
            
               <Button asChild className="cursor-pointer hover:bg-inherit transition-none">
-              <a href="/public/cv/cv.pdf" download="mi-cv.pdf">
+              <a href="/cv/cv.pdf" download="mi-cv.pdf">
               Descargar CV
               </a>
               </Button>
